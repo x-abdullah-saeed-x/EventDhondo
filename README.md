@@ -4,9 +4,9 @@
 EventDhondo is a campus event discovery and management platform. It helps students find relevant events, register quickly, build teams, and receive in-app updates, while organizers can manage event operations and participant workflows.
 
 ## Team Members
-- Muhammad Hamid Abad (24L-2534)
-- Abdullah Zia Chaudhry (24L-2507)
-- Abdullah Saeed (24L-2529)
+- Muhammad Abdullah Saeed
+- Abdullah Zia Chaudhry
+- Muhammad Hamid Abad
 
 ## Tech Stack
 - Backend: Node.js, Express, mssql, bcrypt, Enterprise
